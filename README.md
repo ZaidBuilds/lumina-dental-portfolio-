@@ -1,57 +1,26 @@
-# Lumina Dental Clinic | Premium Portfolio 🦷✨
+# 🤖 AI Solutionist Portfolio Layout
+Next.js layout for showcasing AI solutionist credentials and automation scripts.
 
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer)
+Status: 85% complete — PACKAGE
 
-A high-end, highly interactive scrollytelling web application designed specifically for elite dental clinics and orthodontists. This project serves as a breathtaking portfolio piece for outreach, demonstrating world-class medical web design bridging healthcare and aesthetics.
+## 🚀 Features
+*   **Next.js Page Routes**: Clean, fast case study page navigation.
+*   **Outreach Demos Showcase**: Grids illustrating AI outreach agent structures.
+*   **Contact Interface**: Client inquiry form.
 
-## 🌟 Key Features
+## 🛠️ Tech Stack
+*   **Framework**: Next.js (React), TypeScript
+*   **Styling**: Tailwind CSS
 
-- **3D Scrollytelling Engine**: A custom-built HTML5 `<canvas>` sequence frame renderer that scrubs through 120 frames of premium 3D assets tied directly to user scroll.
-- **Magnetic Liquid Cursor**: A custom-engineered `mix-blend-difference` pointer that intelligently tracks interactions and seamlessly adapts to different backgrounds.
-- **Immersive Parallax Statistics**: Highly optimized scrolling number counters that move in counter-parallax motion.
-- **Aesthetic "Dark Mode First" Theme**: Built with a sophisticated jet-black interface `#050505` utilizing minimal white-space and soft amber accents to radiate luxury.
-- **Fully Responsive Architecture**: Perfect scaling from massive desktop displays down to mobile viewports without breaking immersion.
+## 🔮 What's Left to Ship
+We need to add the final text descriptions to all the portfolio case study cards and link active repository links.
 
-## 🚀 Tech Stack
-
-- **Framework:** Next.js 14 (App Router)
-- **Styling:** Tailwind CSS & Raw CSS for specific scroll locks/mix-blends.
-- **Animations:** Framer Motion (Spring Physics, MotionValues, Scroll Triggers)
-- **Icons:** Lucide React
-- **Assets:** Pre-rendered 3D PNG Image Sequence technique utilized in the `public/sequence/` directory.
-
-## 🛠️ Local Development
-
-Follow these steps to run the portfolio locally on your machine.
-
-**1. Clone the repository**
-```bash
-git clone https://github.com/ZaidBuilds/lumina-dental-portfolio-.git
-cd lumina-dental-portfolio-
-```
-
-**2. Install Dependencies**
-```bash
-npm install
-```
-
-**3. Run the Development Server**
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## 🎨 Design Philosophy
-
-This project actively rebels against traditional, sterile, boring healthcare websites. By treating dentistry as high-end architecture and cosmetic artistry, the portfolio uses heavy black tones, bold sans-serif typography (Inter), and subtle pulse/bounce states to captivate the user—designed explicitly to wow potential clients during sales outreach.
-
-## 💼 Usage
-This repository is designed as a standalone portfolio showcase. You can easily adapt the data schemas inside `Projects.tsx`, `Testimonials.tsx`, and `CallToAction.tsx` to fit any localized clinic seamlessly.
-
----
-
-*Designed and engineered with passion.* ⚡
+## 📦 How to Run Locally
+1.  Fetch dependencies:
+    ```bash
+    npm install
+    ```
+2.  Start development build:
+    ```bash
+    npm run dev
+    ```

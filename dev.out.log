@@ -1,0 +1,14 @@
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://169.254.83.107:3000
+
+✓ Starting...
+Creating turbopack project {
+  dir: 'D:\\zaidsystem\\02_Coding\\Websites\\website for dentist\\portfolio',
+  testMode: true
+}
+✓ Ready in 6.2s
+○ Compiling / ...
+ GET / 200 in 11.4s (compile: 10.9s, render: 502ms)
+ HEAD / 200 in 265ms (compile: 38ms, render: 226ms)
+ GET / 200 in 919ms (compile: 357ms, render: 563ms)
